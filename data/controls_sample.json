@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AC-2",
+    "title": "Account Management",
+    "family": "Access Control",
+    "description": "Manage information system accounts, including establishing, activating, modifying, reviewing, disabling, and removing accounts."
+  },
+  {
+    "id": "AC-3",
+    "title": "Access Enforcement",
+    "family": "Access Control",
+    "description": "Enforce approved authorizations for logical access to information and system resources."
+  },
+  {
+    "id": "AC-7",
+    "title": "Unsuccessful Logon Attempts",
+    "family": "Access Control",
+    "description": "Enforce a limit of consecutive invalid logon attempts by a user during a defined time period."
+  },
+  {
+    "id": "IA-2",
+    "title": "Identification and Authentication (Organizational Users)",
+    "family": "Identification and Authentication",
+    "description": "Uniquely identify and authenticate organizational users."
+  },
+  {
+    "id": "IA-5",
+    "title": "Authenticator Management",
+    "family": "Identification and Authentication",
+    "description": "Manage system authenticators for users and devices."
+  },
+  {
+    "id": "AU-2",
+    "title": "Event Logging",
+    "family": "Audit and Accountability",
+    "description": "Identify the types of events that the system will log and the information content of those logs."
+  },
+  {
+    "id": "AU-3",
+    "title": "Content of Audit Records",
+    "family": "Audit and Accountability",
+    "description": "Ensure that audit records contain information that establishes what type of event occurred, when, where, source, outcome, and identity of individuals."
+  },
+  {
+    "id": "AU-6",
+    "title": "Audit Record Review, Analysis, and Reporting",
+    "family": "Audit and Accountability",
+    "description": "Review and analyze system audit records for indications of inappropriate or unusual activity."
+  }
+]

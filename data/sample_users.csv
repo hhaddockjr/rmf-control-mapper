@@ -1,0 +1,6 @@
+username,display_name,mfa_enabled,last_logon,account_status
+jsmith,Jane Smith,true,2026-11-22,active
+ajones,Alex Jones,true,2026-11-21,active
+bwong,Brian Wong,false,2026-11-10,active
+mlee,Maria Lee,true,2026-11-23,active
+kpatel,Kiran Patel,false,2026-09-15,disabled

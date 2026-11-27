@@ -1,0 +1,9 @@
+control_id,evidence_file,collected_date,notes
+AC-2,sample_users_mfa.csv,2026-11-20,Account inventory with MFA status
+AC-3,access_matrix.xlsx,2026-11-18,Role-based access matrix (placeholder)
+AC-7,failed_logon_policy.txt,2026-11-15,Account lockout threshold configured
+IA-2,sample_users_mfa.csv,2026-11-20,MFA enrollment status
+IA-5,password_policy.md,2026-10-01,Password complexity and rotation policy
+AU-2,audit_config.json,2026-11-19,Enabled audit categories
+AU-3,log_schema.yaml,2026-11-19,Required fields in audit records
+AU-6,audit_review_log.csv,2026-08-12,Last documented audit review (stale)
